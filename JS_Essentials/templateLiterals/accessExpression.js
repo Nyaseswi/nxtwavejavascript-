@@ -1,0 +1,1 @@
+console.log(`The sum of numbers 2 and 3 is ${2+3}`);
